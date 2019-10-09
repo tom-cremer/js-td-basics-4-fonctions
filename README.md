@@ -12,6 +12,7 @@ Source principale : "The complete javascript course" par _Jonas Schmedtmann_ (20
 - [Page de présentation de Jonas Schmedtmann sur Udemy](https://www.udemy.com/user/jonasschmedtmann/) ;
 - [The Complete JavaScript Course 2019: Build Real Projects! sur Udemy](https://www.udemy.com/course/the-complete-javascript-course/)
 - [Apprenez à coder avec JavaScript - Modularisez votre code grâce aux fonctions sur OPENCLASSROOMS](https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript/3043921-ajoutez-des-conditions) : Partie du totriel d'OPENCLASSROOMS (en français, 20 heures, facile) consacré aux fonctions
+- [La référence JavaScript par le MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 
 ## 02 JavaScript - Les bases du langage, 2e partie (03:59:48)
