@@ -1,7 +1,7 @@
 /*****************************
 * 021 - Function Statements and Expressions
 */
-/*
+
 // Function declaration
 // function whatDoYouDo(job, firstName) {}
 
@@ -22,4 +22,3 @@ var whatDoYouDo = function(job, firstName) {
 console.log(whatDoYouDo('teacher', 'John'));
 console.log(whatDoYouDo('designer', 'Jane'));
 console.log(whatDoYouDo('retired', 'Mark'));
-*/
