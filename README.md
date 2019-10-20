@@ -47,10 +47,10 @@
     + les paramètres attendus
     + les valeurs de retour
 
-#### VIDÉOS
+#### SUPPORTS
 
-- 020 Functions.mp4 : Les fonctions
-- 021 Function Statements and Expressions.mp4 : Déclarations de fonctions et expressions
+- 020 Les fonctions
+- 021 Déclarations de fonctions et expressions
 
 #### PRÉPAS
 
