@@ -10,9 +10,8 @@ Cette fonction retourne l'âge de la personne
 en calculant l'année courante moins son année de naissance
 */
 
-function calculateAge(birthYear) {
-    return 2018 - birthYear;
-}
+
+
 /* 
 Utiliser la fonction qu'on vient de créer pour calculer
 	- l'âge de John (né en 1990)
@@ -21,10 +20,10 @@ Utiliser la fonction qu'on vient de créer pour calculer
 Afficher ces âges dans la console
 */
 
-var ageJohn = calculateAge(1990);
-var ageMike = calculateAge(1948);
-var ageJane = calculateAge(1969);
-console.log(ageJohn, ageMike, ageJane);
+
+
+
+
 
 // 2. Fonction avec deux paramètres et un return
 
@@ -43,18 +42,6 @@ Utiliser ensuite la fonction pour calculer dans cobien d'années seront pensionn
 	- Jane (née en 1969)
 */
 
-function giveYearsUntilRetirement(year, firstName) {
-    var age = calculateAge(year);
-    var retirement = 65 - age;
-    
-    if (retirement > 0) {
-        console.log(firstName + ' prendra sa pension dans ' + retirement + ' ans.');
-    } else {
-        console.log(firstName + ' est déjà pensionné(e).')
-    }
-    
-}
-giveYearsUntilRetirement(1990, 'John');
-giveYearsUntilRetirement(1948, 'Mike');
-giveYearsUntilRetirement(1969, 'Jane');
+
+
 

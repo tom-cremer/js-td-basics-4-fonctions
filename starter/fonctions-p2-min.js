@@ -15,4 +15,13 @@ N.B. Faites deux versions :
 // synatxe classique
 
 
+
 // arrow function
+
+
+
+// arrow function écriture encore plus concise
+
+
+
+
