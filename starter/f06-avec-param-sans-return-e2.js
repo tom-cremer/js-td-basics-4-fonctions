@@ -1,39 +1,39 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
-// 4. PASSAGE DE PARAMÈTRE : FONCTION AVEC PARAMÈTRE (SANS RETURN)
+// 4. PASSAGE DE PARAMÃˆTRE : FONCTION AVEC PARAMÃˆTRE (SANS RETURN)
 
 /* RAPPEL :
-1. Un PARAMÈTRE est une information dont une fonction a besoin pour jouer son rôle.
+1. Un PARAMÃˆTRE est une information dont une fonction a besoin pour jouer son rÃ´le.
 
-2. Dans la DÉCLARATION de la fonction, 
-  - le NOM du paramètre est défini entre parenthèses juste après le nom de la fonction
-  - on peut ensuite l'utiliser (comme si c'était une variable locale)
-    en indiquant son nom à chaque fois qu'on en a besoin dans le corps de la fonction. 
+2. Dans la DÃ‰CLARATION de la fonction, 
+  - le NOM du paramÃ¨tre est dÃ©fini entre parenthÃ¨ses juste aprÃ¨s le nom de la fonction
+  - on peut ensuite l'utiliser (comme si c'Ã©tait une variable locale)
+    en indiquant son nom Ã  chaque fois qu'on en a besoin dans le corps de la fonction. 
  
  3. Au moment de l'APPEL de la fonction : 
-  - on passe la VALEUR du paramètre entre les parentèses de l'appel de fonction.
-  => La valeur d'un paramètre est fournie au moment de l'appel de la fonction :
-     on dit que cette valeur est passée en paramètre.
-     La valeur donnée à un paramètre lors de l'appel de fonction s'appelle l'ARGUMENT .
+  - on passe la VALEUR du paramÃ¨tre entre les parentÃ¨ses de l'appel de fonction.
+  => La valeur d'un paramÃ¨tre est fournie au moment de l'appel de la fonction :
+     on dit que cette valeur est passÃ©e en paramÃ¨tre.
+     La valeur donnÃ©e Ã  un paramÃ¨tre lors de l'appel de fonction s'appelle l'ARGUMENT .
 */
 
 /* EXERCICE :
-1. Déclarer une fonction direBonjour
-   - qui prend comme paramètre le prenom
+1. DÃ©clarer une fonction direBonjour
+   - qui prend comme paramÃ¨tre le prenom
    - qui doit faire plusieurs affichages successifs dans la console :
-      - "Bonjour … !"
-      - "Hello … !"
-      - "Comment vas-tu … ?"
-      - "Hey, salut … !"
-      - "Buenos dias … !"
-2. Appeler cette fonction en lui passant comme paramètre
+      - "Bonjour Â… !"
+      - "Hello Â… !"
+      - "Comment vas-tu Â… ?"
+      - "Hey, salut Â… !"
+      - "Buenos dias Â… !"
+2. Appeler cette fonction en lui passant comme paramÃ¨tre
    a) "Baptiste"
    b) "Sophie"
 */
 
-// 1°) Déclaration de la fonction avec paramètre
+// 1Â°) DÃ©claration de la fonction avec paramÃ¨tre
 
 
 
@@ -42,16 +42,16 @@
 
 
 /*
-Au moment de la DÉCALARATION de la fonction, on définit le paramètre
-dans les parenthèses juste après le nom de la fonction en lui donnant un NOM,
+Au moment de la DÃ‰CALARATION de la fonction, on dÃ©finit le paramÃ¨tre
+dans les parenthÃ¨ses juste aprÃ¨s le nom de la fonction en lui donnant un NOM,
 puis on l'utilise dans le corps de la fonction
 */
 
-// 2°) Appel de la fonction avec paramètre
+// 2Â°) Appel de la fonction avec paramÃ¨tre
 
 
 
 
 /* 
-Au moment de l'APPEL de la fonction, on donne une VALEUR au paramètre
+Au moment de l'APPEL de la fonction, on donne une VALEUR au paramÃ¨tre
 */

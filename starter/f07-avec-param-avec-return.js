@@ -1,15 +1,15 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
-// 5. PASSAGE DE PARAMÈTRE : FONCTION AVEC PARAMETRE ET AVEC RETURN
+// 5. PASSAGE DE PARAMÃˆTRE : FONCTION AVEC PARAMETRE ET AVEC RETURN
 
 /* EXERCICE :
-1. Déclarer une fonction direBonjour qui
-   - prend comme paramètre le prenom
-   - déclare une variable message contenant "Bonjour … !"
+1. DÃ©clarer une fonction direBonjour qui
+   - prend comme paramÃ¨tre le prenom
+   - dÃ©clare une variable message contenant "Bonjour Â… !"
    - retroune cette variable message 
-2. Afficher dans la console bonjour à
+2. Afficher dans la console bonjour Ã 
    a) "Baptiste"
    b) "Sophie"
 */
@@ -22,12 +22,12 @@
 
 
 
-// RETURN, PORTÉE DE VARAIBLE, PARAMÈTRE - RÉSUMÉ GLOBAL :
+// RETURN, PORTÃ‰E DE VARAIBLE, PARAMÃˆTRE - RÃ‰SUMÃ‰ GLOBAL :
 /* 
-Le RETURN, la VARIABLE GLOBALE et le PARAMÈTRE sont
-les trois MOYENS DE COMMUNICATION d’une fonction avec le reste du code : 
-  - L'instruction RETURN pour FAIRE SORTIR UNE DONNEE D’UNE FONCTION
+Le RETURN, la VARIABLE GLOBALE et le PARAMÃˆTRE sont
+les trois MOYENS DE COMMUNICATION dÂ’une fonction avec le reste du code : 
+  - L'instruction RETURN pour FAIRE SORTIR UNE DONNEE DÂ’UNE FONCTION
   - La VARIABLE GLOBALE pour PARTAGER LES INFOS ENTRE PLUSIEURS FONCTIONS
 	  (rendre une info disponible partout)
-  - Le PASSAGE DE PARAMETRE pour FAIRE ENTRER UNE DONNÉE DANS UNE FONCTION
+  - Le PASSAGE DE PARAMETRE pour FAIRE ENTRER UNE DONNÃ‰E DANS UNE FONCTION
 */

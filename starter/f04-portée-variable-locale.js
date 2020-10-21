@@ -1,21 +1,21 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
 // 3. PORTEE D'UNE VARIABLE : VARIABLE LOCALE - VARIABLE GLOBALE
 
-// 3. - 1°) Variable locale
+// 3. - 1Â°) Variable locale
 
 /* 
-Variable locale = variable déclarée dans le corps d'une fonction
-Une variable locale n'est accessible qu'à l'intérieur de la fonction. 
+Variable locale = variable dÃ©clarÃ©e dans le corps d'une fonction
+Une variable locale n'est accessible qu'Ã  l'intÃ©rieur de la fonction. 
 */
 
 /* EXERCICE 1 : fonction sans return
-1. Déclarer une fonction direBonjour qui 
-	- stocke dans une variable message la chaîne de caractères "Bonjour !"
+1. DÃ©clarer une fonction direBonjour qui 
+	- stocke dans une variable message la chaÃ®ne de caractÃ¨res "Bonjour !"
 	- donne l'ordre d'afficher dans la console le contenu de la variable message
-2. À la racine du programme, en dehors du corps de la fonction, 
+2. Ã€ la racine du programme, en dehors du corps de la fonction, 
 donner l'ordre d'afficher dans la console le contenu de la variable message
 */
 
@@ -28,16 +28,16 @@ donner l'ordre d'afficher dans la console le contenu de la variable message
 
 
 /* 
-Ma variable message est une variable locale, je l'ai déclarée dans ma fonction direBonjour
-=> si j'essaie d'accéder à message en dehors de ma fonction, j'ai une erreur
+Ma variable message est une variable locale, je l'ai dÃ©clarÃ©e dans ma fonction direBonjour
+=> si j'essaie d'accÃ©der Ã  message en dehors de ma fonction, j'ai une erreur
 */
 
 
 /* EXERCICE 2 : fonction avec return
-1. Déclarer une fonction direBonjour qui 
-	- stocke dans une variable message la chaîne de caractères "Bonjour !"
+1. DÃ©clarer une fonction direBonjour qui 
+	- stocke dans une variable message la chaÃ®ne de caractÃ¨res "Bonjour !"
 	- retourne la variable message
-2. À la racine du programme, en dehors du corps de la fonction, 
+2. Ã€ la racine du programme, en dehors du corps de la fonction, 
 	- donner l'ordre d'afficher dans la console le contenu de la variable message
 	- trouver le bon moyen pour afficher dans la console le contenu de la variable message
 */
@@ -48,8 +48,8 @@ Ma variable message est une variable locale, je l'ai déclarée dans ma fonction d
 
 
 /* 
-Ma variable message est une variable locale, je l'ai déclarée dans ma fonction direBonjour
-=> si j'essaie d'accéder à message en dehors de ma fonction, j'ai une erreur
-Par contre, je peux utiliser le return pour faire sortir sa valeur de ma fonction…
+Ma variable message est une variable locale, je l'ai dÃ©clarÃ©e dans ma fonction direBonjour
+=> si j'essaie d'accÃ©der Ã  message en dehors de ma fonction, j'ai une erreur
+Par contre, je peux utiliser le return pour faire sortir sa valeur de ma fonctionÂ…
 Si ma fonction retourne message, lorsque j'appelle ma fonction, sa valeur de retour est le contenu de la variable message
 */

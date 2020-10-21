@@ -1,33 +1,33 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
-// 4. PASSAGE DE PARAMÈTRE : FONCTION AVEC PARAMÈTRE (SANS RETURN)
+// 4. PASSAGE DE PARAMÃˆTRE : FONCTION AVEC PARAMÃˆTRE (SANS RETURN)
 
-// Une fonction avec plusieurs paramètres
+// Une fonction avec plusieurs paramÃ¨tres
 
 /* EXERCICE :
-1. Déclarer une fonction presenter
-  - qui prend deux paramètres, prenom et age
-  - et qui affiche dans la console "Tu t'appelles … et tu as … ans"
-2. Appeler cette fonction en lui passant comme paramètre
+1. DÃ©clarer une fonction presenter
+  - qui prend deux paramÃ¨tres, prenom et age
+  - et qui affiche dans la console "Tu t'appelles Â… et tu as Â… ans"
+2. Appeler cette fonction en lui passant comme paramÃ¨tre
   a) "Garance" et 10
   b) 6 et "Prosper"
 */
 
-// déclaration de la fonction
+// dÃ©claration de la fonction
 
 
 
 
 
-// appels de fonction avec passage de paramètres
+// appels de fonction avec passage de paramÃ¨tres
 
 
 
 
 
 /* ATTENTION !
-	Lors d'un appel à une fonction acceptant plusieurs paramètres,
-	le nombre et l'ordre des paramètres doivent être respectés.
+	Lors d'un appel Ã  une fonction acceptant plusieurs paramÃ¨tres,
+	le nombre et l'ordre des paramÃ¨tres doivent Ãªtre respectÃ©s.
 */

@@ -1,12 +1,12 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
-// 7. Utiliser les fonctions prédéfinies en JavaScript
+// 7. Utiliser les fonctions prÃ©dÃ©finies en JavaScript
 
-// 1°) Quelques exemples
+// 1Â°) Quelques exemples
 
-// La fonction Math.min() renvoie le minimum des nombres passés en paramètres
+// La fonction Math.min() renvoie le minimum des nombres passÃ©s en paramÃ¨tres
 
 /* EXERCICE 1 : 
 Utiliser la fonction Math.min pour afficher dans la console
@@ -19,23 +19,23 @@ console.log(Math.min(4.5, 5)); // 4.5
 console.log(Math.min(19, 9));  // 9
 console.log(Math.min(1, 1));   // 1
 
-// La fonction Math.random() génère un nombre aléatoire entre 0 et 1
+// La fonction Math.random() gÃ©nÃ¨re un nombre alÃ©atoire entre 0 et 1
 
 /* EXERCICE 2 : 
 Utiliser la fonction Math.random pour afficher dans la console
-- un nombre aléatoire compris entre 0 (inclus) et 1 (exclu)
-- un nombre aléatoire compris entre 0 (inclus) et 10 (exclu)
-- un nombre aléatoire compris entre 5 (inclus) et 15 (exclu)
+- un nombre alÃ©atoire compris entre 0 (inclus) et 1 (exclu)
+- un nombre alÃ©atoire compris entre 0 (inclus) et 10 (exclu)
+- un nombre alÃ©atoire compris entre 5 (inclus) et 15 (exclu)
 */
 
-console.log(Math.random()); // Un nombre aléatoire entre 0 et 1
+console.log(Math.random()); // Un nombre alÃ©atoire entre 0 et 1
 
-// Nous découvrirons plein d'autres fonctions prédéfinies dans la suite de ce cours.
+// Nous dÃ©couvrirons plein d'autres fonctions prÃ©dÃ©finies dans la suite de ce cours.
 
-// 2°) Consulter la documentation !!
+// 2Â°) Consulter la documentation !!
 
 /* La documentation renseigne comment utiliser les fonctions existantes :
-    + les paramètres attendus
+    + les paramÃ¨tres attendus
     + les valeurs de retour
 */
 
@@ -45,8 +45,8 @@ console.log(Math.random()); // Un nombre aléatoire entre 0 et 1
 // La fonction Math.random()
 // https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/random
 
-// N.B. console.log() est elle aussi une fonction…
+// N.B. console.log() est elle aussi une fonctionÂ…
 /*
-Nous verrons plus tard que log est une fonction associée à l'objet console,
-on dit que log est une MÉTHODE de l'objet console
+Nous verrons plus tard que log est une fonction associÃ©e Ã  l'objet console,
+on dit que log est une MÃ‰THODE de l'objet console
 */

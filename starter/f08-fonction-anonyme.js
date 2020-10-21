@@ -1,17 +1,17 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
 // 6. FONCTION ANONYME
 
-// 1°) Délcaration de fonction sous la forme d'une expression de fonction
+// 1Â°) DÃ©lcaration de fonction sous la forme d'une expression de fonction
 
-// 	a) sans paramètre ni return
+// 	a) sans paramÃ¨tre ni return
 
 /* EXERCICE :
-- Déclarer sous la forme d'une expression de fonction
+- DÃ©clarer sous la forme d'une expression de fonction
   la fonction direBonjour qui affiche "Bonjour !" dans la console
-- Exécuter la fonction
+- ExÃ©cuter la fonction
 */
 
 
@@ -19,11 +19,11 @@
 
 
 
-// 	b) sans paramètre mais avec return
+// 	b) sans paramÃ¨tre mais avec return
 
 /* EXERCICE 2 :
-- Déclarer sous la forme d'une expression de fonction
-  la fonction disBonjour qui retourne la chaîne "Bonjour !"
+- DÃ©clarer sous la forme d'une expression de fonction
+  la fonction disBonjour qui retourne la chaÃ®ne "Bonjour !"
 - L'utiliser pour afficher "Bonjour !" dans la console
 */
 
@@ -32,12 +32,12 @@
 
 
 
-// c) avec paramètre et return
+// c) avec paramÃ¨tre et return
 
 /* EXERCICE 3 :
-- Déclarer sous la forme d'une expression de fonction la fonction salue qui
-   - prend le paramètre prenom
-   - stocke dans une variable message "Bonjour … !"
+- DÃ©clarer sous la forme d'une expression de fonction la fonction salue qui
+   - prend le paramÃ¨tre prenom
+   - stocke dans une variable message "Bonjour Â… !"
    - retourne ce message
 - L'utiliser pour saluer Thomas dans la console
 */

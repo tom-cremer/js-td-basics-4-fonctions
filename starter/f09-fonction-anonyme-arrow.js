@@ -1,11 +1,11 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
 // 6. FONCTION ANONYME
 
-// 2°) ES6 : fonction fléchée (fat arrow function)
-// = une autre syntaxe pour la déclaration d'une fonction anonyme
+// 2Â°) ES6 : fonction flÃ©chÃ©e (fat arrow function)
+// = une autre syntaxe pour la dÃ©claration d'une fonction anonyme
 
 /* RAPPEL : fonction anonyme sous forme d'expression de fonction :
   const bonjour = function(prenom) {
@@ -14,7 +14,7 @@
 */
 
 /* EXERCICE 1 :
-- Déclarer la fonction ci-dessus en utilisant la syntaxe "fat arrow function"
+- DÃ©clarer la fonction ci-dessus en utilisant la syntaxe "fat arrow function"
 - L'utiliser pour saluer Thomas dans la console
 */
 
@@ -23,15 +23,15 @@
 
 
 /*
-N.B. Dans certains cas particuliers, on peut simplifier la syntaxe des fonctions fléchées :
-- Quand le corps de la fonction se limite à une seule ligne,
-	on peut écrire son résultat sans créer de blocs de code avec des accolades.
+N.B. Dans certains cas particuliers, on peut simplifier la syntaxe des fonctions flÃ©chÃ©es :
+- Quand le corps de la fonction se limite Ã  une seule ligne,
+	on peut Ã©crire son rÃ©sultat sans crÃ©er de blocs de code avec des accolades.
 	Dans ce cas, l'instruction  return  est implicite.
-- Quand la fonction n'a qu'un seul argument, on peut omettre les parenthèses autour de celui-ci.
+- Quand la fonction n'a qu'un seul argument, on peut omettre les parenthÃ¨ses autour de celui-ci.
 */
 
 /* EXERCICE 2 :
-- Déclarer cette même fonction en utilisant la syntaxe simplifiée
+- DÃ©clarer cette mÃªme fonction en utilisant la syntaxe simplifiÃ©e
 - L'utiliser pour saluer Thomas dans la console
 */
 

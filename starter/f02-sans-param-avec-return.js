@@ -1,57 +1,57 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
-// 2. FONCTION SANS PARAMÈTRE MAIS AVEC UN RETURN  
+// 2. FONCTION SANS PARAMÃˆTRE MAIS AVEC UN RETURN  
 
 /* RAPPELS :
-	1. Déclarer la fonction
-	2. Exécuter la fonction
+	1. DÃ©clarer la fonction
+	2. ExÃ©cuter la fonction
 	3. Valeur de retour de la fonction
 */
 /*
-DÉCLARER la fonction = CRÉER la fonction :
-On crée un conteneur qui a un identifiant (le nom de la fonction)
+DÃ‰CLARER la fonction = CRÃ‰ER la fonction :
+On crÃ©e un conteneur qui a un identifiant (le nom de la fonction)
 et on y stocke le mode d'emploi (le corps de la fonction, la liste d'instructions qui sont entre les accolades) 
-!! Cette fois, on ajoute à la fin du bloc de déclaration l'instruction RETURN suivie de la valeur de retour (c.-à-d. la valeur que la fonction devra retourner lorqu'on l'exécutera)
-N.B. La déclaration, à elle toute seule, ne produit aucun résultat visible
-	(on a juste enregistré quelque chose dans la mémoire de l'ordinateur,
-	on a préparé le terrain : on a défini un mode d'emploi pour pouvoir travailler avec plus tard,
-	on a expliqué comment faire quelque chose mais on n'a pas enocre donné l'ordre de le faire)
+!! Cette fois, on ajoute Ã  la fin du bloc de dÃ©claration l'instruction RETURN suivie de la valeur de retour (c.-Ã -d. la valeur que la fonction devra retourner lorqu'on l'exÃ©cutera)
+N.B. La dÃ©claration, Ã  elle toute seule, ne produit aucun rÃ©sultat visible
+	(on a juste enregistrÃ© quelque chose dans la mÃ©moire de l'ordinateur,
+	on a prÃ©parÃ© le terrain : on a dÃ©fini un mode d'emploi pour pouvoir travailler avec plus tard,
+	on a expliquÃ© comment faire quelque chose mais on n'a pas enocre donnÃ© l'ordre de le faire)
 */
 /*
-EXÉCUTER la fonction = utiliser la fonction 
+EXÃ‰CUTER la fonction = utiliser la fonction 
 					= faire un appel de fonction de direct
-Comment ? avec l'opérateur ()
+Comment ? avec l'opÃ©rateur ()
 */
 /*
 VALEUR DE RETOUR de la fonction :
 Un appel de fonction direct est une expression
-opérande OPÉRATEUR, par exemple : direBonjour() 
-=> Cette expression s'évalue à une valeur… quelle valeur ?
+opÃ©rande OPÃ‰RATEUR, par exemple : direBonjour() 
+=> Cette expression s'Ã©value Ã  une valeurÂ… quelle valeur ?
    UNE FONCTION QUI A UNE INSTRUCTION RETURN RETOURNE LA VALEUR DE RETOUR
-   (= valeur de l'expression qui se trouve après le return) 
-   => son appel s'évalue à la valeur de retour
+   (= valeur de l'expression qui se trouve aprÃ¨s le return) 
+   => son appel s'Ã©value Ã  la valeur de retour
 */
 
 /* 
 EXERCICE : 
-1°) a) Déclarer la fonction direBonjour qui retroune la châine de caractères "Bonjour !"
-    b) Lancer ce programme dans un navigateur… que se passe-t-il ? Expliquer
-2°) a) Exécuter la fonction direBonjour (écrire l'appel de fonction direct)
-    b) Lancer ce programme complété dans un navigateur… que se passe-t-il ? Expliquer
-3.°) a) Stocker le résultat de l'exécution de direBonjour dans une variable resultat
-    b) Donner l'ordre d'afficher la contenu de la variable résultat dans la console
-    c) Lancer ce programme complété dans un navigateur… expliquer
+1Â°) a) DÃ©clarer la fonction direBonjour qui retroune la chÃ¢ine de caractÃ¨res "Bonjour !"
+    b) Lancer ce programme dans un navigateurÂ… que se passe-t-il ? Expliquer
+2Â°) a) ExÃ©cuter la fonction direBonjour (Ã©crire l'appel de fonction direct)
+    b) Lancer ce programme complÃ©tÃ© dans un navigateurÂ… que se passe-t-il ? Expliquer
+3.Â°) a) Stocker le rÃ©sultat de l'exÃ©cution de direBonjour dans une variable resultat
+    b) Donner l'ordre d'afficher la contenu de la variable rÃ©sultat dans la console
+    c) Lancer ce programme complÃ©tÃ© dans un navigateurÂ… expliquer
 */
 
-// 1°) Déclarer la fonction
+// 1Â°) DÃ©clarer la fonction
 
 
 
-// 2°) Exécuter la fonction
+// 2Â°) ExÃ©cuter la fonction
 
 
 
-// 3°) Valeur de retour de cette fonction
+// 3Â°) Valeur de retour de cette fonction
 

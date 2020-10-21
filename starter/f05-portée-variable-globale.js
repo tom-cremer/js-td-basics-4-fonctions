@@ -1,13 +1,13 @@
 /*****************************
-* 020 - Fonctions - Préalable
+* 020 - Fonctions - PrÃ©alable
 */
 
 // 3. PORTEE D'UNE VARIABLE : VARIABLE LOCALE - VARIABLE GLOBALE
 
-// 3. - 2°) Variable globale 
+// 3. - 2Â°) Variable globale 
 
 /* 
-Variable gobale = variable déclarée en dehors d'une fonction
+Variable gobale = variable dÃ©clarÃ©e en dehors d'une fonction
 Une variable globale est accessible de partout 
 => On peut voir une variable globale comme un
    2e MOYEN DE COMMUNCIATION entre les fonctions :
@@ -16,12 +16,12 @@ Une variable globale est accessible de partout
  */
 
 /* EXERCICE 1 : Variable locale
-1. Déclarer une fonction affiche1 qui
+1. DÃ©clarer une fonction affiche1 qui
 	- stocke a valeur 2 dans une variable nbre1
-2. Déclarer une fonction affiche2 qui
+2. DÃ©clarer une fonction affiche2 qui
 	- stocke a valeur 3 dans une variable nbre2
-	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre2 = …"  
-	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre1 = …"
+	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre2 = Â…"  
+	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre1 = Â…"
 3. Appeler affiche2
 4. Expliquer ce qui se passe
 */
@@ -38,19 +38,19 @@ Une variable globale est accessible de partout
 
 
 /*
-Une variable déclarée à l'intérieur d'une fonction est dite "locale"
-et elle n'est disponible qu'à l'intérieur de cette fonction
+Une variable dÃ©clarÃ©e Ã  l'intÃ©rieur d'une fonction est dite "locale"
+et elle n'est disponible qu'Ã  l'intÃ©rieur de cette fonction
 */
 
 /* EXERCICE 2 : Variable globale
 				(on sort la variable nbre1 de la fonction affiche1)
-1. Initialiser une variable nbre1 à la valeur 2
-2. Déclarer une fonction affiche1 qui
-	- donne l'ordre d'afficher dans la console "Dans affiche1 : nbre1 = …"
-3. Déclarer une fonction affiche2 qui
+1. Initialiser une variable nbre1 Ã  la valeur 2
+2. DÃ©clarer une fonction affiche1 qui
+	- donne l'ordre d'afficher dans la console "Dans affiche1 : nbre1 = Â…"
+3. DÃ©clarer une fonction affiche2 qui
 	- stocke a valeur 3 dans une variable nbre2
-	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre2 = …"  
-	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre1 = …"
+	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre2 = Â…"  
+	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre1 = Â…"
 4. Appeler affiche1 et affiche2
 5. Expliquer ce qui se passe
 */
@@ -69,23 +69,23 @@ et elle n'est disponible qu'à l'intérieur de cette fonction
 
 /*
 Pour qu'une variable soit disponible partout
-(y compris à l'intérieur d'autres fonctions),
-il faut la déclarer en dehors de toute fonction.
+(y compris Ã  l'intÃ©rieur d'autres fonctions),
+il faut la dÃ©clarer en dehors de toute fonction.
 On dit alors que c'est une variable "globale"
 */
 
 
 /* EXERCICE 3 : Variable globale - variante
-				(on déclare la variable nbre1 hors de la fonction affiche1
-				et on l'affecte à l'intérieur de la fonction affiche1)
-1. Déclarer une variable nbre1 sans lui affecter de valeur
-2. Déclarer une fonction affiche1 qui
+				(on dÃ©clare la variable nbre1 hors de la fonction affiche1
+				et on l'affecte Ã  l'intÃ©rieur de la fonction affiche1)
+1. DÃ©clarer une variable nbre1 sans lui affecter de valeur
+2. DÃ©clarer une fonction affiche1 qui
 	- stocke a valeur 2 dans une variable nbre1
-	- donne l'ordre d'afficher dans la console "Dans affiche1 : nbre1 = …"
-3. Déclarer une fonction affiche2 qui
+	- donne l'ordre d'afficher dans la console "Dans affiche1 : nbre1 = Â…"
+3. DÃ©clarer une fonction affiche2 qui
 	- stocke a valeur 3 dans une variable nbre2
-	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre2 = …"  
-	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre1 = …"
+	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre2 = Â…"  
+	- donne l'ordre d'afficher dans la console "Dans affiche2 : nbre1 = Â…"
 4. Appeler affiche1 et affiche2
 5. Expliquer ce qui se passe
 */
@@ -98,16 +98,16 @@ On dit alors que c'est une variable "globale"
 
 
 /*
-Pour qu'une variable ait une portée globale,
-ce qui est important, c'est de la DÉCLARER en dehors de toute fonction,
-on n'est pas obligé de l'affecter à cet endroit-là,
-on peut l'affecter n'importe où, elle sera quand même globale,
-c.-à-d. accessible partout
+Pour qu'une variable ait une portÃ©e globale,
+ce qui est important, c'est de la DÃ‰CLARER en dehors de toute fonction,
+on n'est pas obligÃ© de l'affecter Ã  cet endroit-lÃ ,
+on peut l'affecter n'importe oÃ¹, elle sera quand mÃªme globale,
+c.-Ã -d. accessible partout
 */
 
 /*
 RESUME :
-- Portée d'une variable = ensemble des endroits où elle est accessible
-- Variable locale : accesssible que dans le corps de la fonction où elle se trouve
+- PortÃ©e d'une variable = ensemble des endroits oÃ¹ elle est accessible
+- Variable locale : accesssible que dans le corps de la fonction oÃ¹ elle se trouve
 - Variable gloable : accessible partout
 */
