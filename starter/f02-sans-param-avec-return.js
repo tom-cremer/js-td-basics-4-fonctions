@@ -1,6 +1,6 @@
 /*****************************
-* 020 - Fonctions - Préalable
-*/
+ * 020 - Fonctions - Préalable
+ */
 
 // 2. FONCTION SANS PARAMÈTRE MAIS AVEC UN RETURN  
 
@@ -17,41 +17,16 @@ et on y stocke le mode d'emploi (le corps de la fonction, la liste d'instruction
 N.B. La déclaration, à elle toute seule, ne produit aucun résultat visible
 	(on a juste enregistré quelque chose dans la mémoire de l'ordinateur,
 	on a préparé le terrain : on a défini un mode d'emploi pour pouvoir travailler avec plus tard,
-	on a expliqué comment faire quelque chose mais on n'a pas enocre donné l'ordre de le faire)
-*/
-/*
-EXÉCUTER la fonction = utiliser la fonction 
-					= faire un appel de fonction de direct
-Comment ? avec l'opérateur ()
-*/
-/*
-VALEUR DE RETOUR de la fonction :
-Un appel de fonction direct est une expression
-opérande OPÉRATEUR, par exemple : direBonjour() 
-=> Cette expression s'évalue à une valeur quelle valeur ?
-   UNE FONCTION QUI A UNE INSTRUCTION RETURN RETOURNE LA VALEUR DE RETOUR
-   (= valeur de l'expression qui se trouve après le return) 
-   => son appel s'évalue à la valeur de retour
+	on a expliqué comment faire quelque chose mais on n'a pas encore donné l'ordre de le faire)
 */
 
-/* 
-EXERCICE : 
-1°) a) Déclarer la fonction direBonjour qui retroune la châine de caractères "Bonjour !"
-    b) Lancer ce programme dans un navigateur que se passe-t-il ? Expliquer
-2°) a) Exécuter la fonction direBonjour (écrire l'appel de fonction direct)
-    b) Lancer ce programme complété dans un navigateur que se passe-t-il ? Expliquer
-3.°) a) Stocker le résultat de l'exécution de direBonjour dans une variable resultat
-    b) Donner l'ordre d'afficher la contenu de la variable résultat dans la console
-    c) Lancer ce programme complété dans un navigateur expliquer
-*/
+// 1°) a) Déclarer la fonction
+function direBonjour() {
+    // À vous de remplir le contenu de cette fonction et d'ajouter une instruction RETURN pour retourner la chaîne "Bonjour !"
+}
 
-// 1°) Déclarer la fonction
+// 2°) a) Exécuter la fonction (appelez la fonction direBonjour)
 
+// 3°) a) Stocker le résultat de l'exécution de direBonjour dans une variable resultat
 
-
-// 2°) Exécuter la fonction
-
-
-
-// 3°) Valeur de retour de cette fonction
-
+// 3°) b) Donner l'ordre d'afficher le contenu de la variable resultat dans la console

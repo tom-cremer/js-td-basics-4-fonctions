@@ -14,11 +14,13 @@
 */
 
 /* EXERCICE 1 :
-- Déclarer la fonction ci-dessus en utilisant la syntaxe "fat arrow function"
-- L'utiliser pour saluer Thomas dans la console
+- Déclarez la fonction ci-dessus en utilisant la syntaxe "fat arrow function"
+- Utilisez-la pour saluer Thomas dans la console
 */
 
+// Fonction anonyme avec la syntaxe "fat arrow function"
 
+// Utilisation de la fonction pour saluer Thomas dans la console
 
 
 
@@ -31,7 +33,12 @@ N.B. Dans certains cas particuliers, on peut simplifier la syntaxe des fonctions
 */
 
 /* EXERCICE 2 :
-- Déclarer cette même fonction en utilisant la syntaxe simplifiée
-- L'utiliser pour saluer Thomas dans la console
+- Déclarez cette même fonction en utilisant la syntaxe simplifiée
+- Utilisez-la pour saluer Thomas dans la console
 */
+
+// Fonction anonyme avec la syntaxe simplifiée
+
+
+// Utilisation de la fonction pour saluer Thomas dans la console
 

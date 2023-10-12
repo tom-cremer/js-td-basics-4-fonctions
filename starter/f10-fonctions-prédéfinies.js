@@ -45,7 +45,7 @@ console.log(Math.random()); // Un nombre aléatoire entre 0 et 1
 // La fonction Math.random()
 // https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/random
 
-// N.B. console.log() est elle aussi une fonction
+// N.B. console.log() est elle aussi une fonction 
 /*
 Nous verrons plus tard que log est une fonction associée à l'objet console,
 on dit que log est une MÉTHODE de l'objet console
