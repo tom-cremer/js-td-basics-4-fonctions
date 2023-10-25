@@ -11,10 +11,29 @@
    - si c'est designer, "designs beautiful websites"
    - dans tous les autres cas, "does something else"
 */
+// camel  case
+// pascal case
+// snake  case
+// kebab  case
 
-const whatDoYouDo = function(job, firstName) {
+const whatDoYouDo = (job, firstName) => {
     // Utilisez des conditions (if/else if) pour décrire le job de la personne en fonction de la valeur de 'job'.
     // Renvoyez la phrase appropriée en utilisant un return.
+    let sayHelloString = firstName;
+    switch (job){
+        case "teacher":
+            sayHelloString += "teaches kids how to code";
+            break;
+        case "driver":
+            sayHelloString += "drives a cab in Lisbon";
+            break;
+        case "designer":
+            sayHelloString += "designs beautiful websites";
+            break;
+        default:
+            sayHelloString += "does something else";
+    }
+    return sayHelloString;
 };
 
 /*
@@ -23,3 +42,5 @@ const whatDoYouDo = function(job, firstName) {
     - Jane (designer)
     - Mark (retired)
 */
+
+console.log(whatDoYouDo('designer', 'john'));
